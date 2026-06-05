@@ -16,7 +16,7 @@ def predict_churn(data):
  
 st.title('Employee Churn Prediction App')
 st.subheader('Based on Employee Dataset')
-st.subheader('Created by: Safeer (CDA-14)')
+st.caption('Created by: Safeer (CDA-14)')
  
 # Display categorical features
 st.subheader('Categorical Features')
